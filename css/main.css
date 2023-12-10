@@ -284,7 +284,7 @@ Couples Resort Responsive Build
  }
  
  #about-us-text {
-    padding-bottom: 60px;
+    padding-bottom: 20px;
  }
  
  #about-us-text p {
@@ -429,7 +429,7 @@ Couples Resort Responsive Build
     font-size: 14px;
     line-height: 22px;
  }
- /*
+ 
  #contact-hero-address {
     margin-bottom: 30px;
  }
@@ -474,14 +474,14 @@ Couples Resort Responsive Build
  #contact-hero-form input[type="submit"]:hover {
     background-color: #626262;
     border-radius: 0;
- }*/
+ }
  
  /* 8. ---Footer--- */
  #exotics-hero-con{
-   background: url(../images/room-imgs/room5img412.jpg);
-   height: 195px;
- }
- #exotics-hero-heading-box {
+   background: url(../images/room-imgs/room3img412.jpg);
+   height: 195px;}
+
+#exotics-hero-heading-box {
     align-self: end;
  }
  
